@@ -1,0 +1,126 @@
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: var(--font-stack);
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+  --color-surface: var(--surface);
+  --color-surface-foreground: var(--surface-foreground);
+  --color-surface-muted: var(--surface-muted);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+  --radius-4xl: calc(var(--radius) * 2.6);
+}
+
+:root {
+  color-scheme: dark;
+  --background: #0b0f19;
+  --foreground: #f8fafc;
+  --card: #111726;
+  --card-foreground: #f8fafc;
+  --popover: #111726;
+  --popover-foreground: #f8fafc;
+  --primary: #2563eb;
+  --primary-foreground: #f8fafc;
+  --secondary: #1a2133;
+  --secondary-foreground: #f8fafc;
+  --muted: #1a2133;
+  --muted-foreground: #94a3b8;
+  --accent: #06b6d4;
+  --accent-foreground: #0b0f19;
+  --destructive: #ef4444;
+  --border: rgb(248 250 252 / 0.1);
+  --input: rgb(248 250 252 / 0.14);
+  --ring: #06b6d4;
+  --surface: #f8fafc;
+  --surface-foreground: #0b0f19;
+  --surface-muted: #475569;
+  --radius: 0.75rem;
+  --font-stack: var(--font-inter), var(--font-noto-kr), system-ui, sans-serif;
+}
+
+html[lang='en'] {
+  --font-stack: var(--font-inter), system-ui, sans-serif;
+}
+html[lang='zh-Hans'] {
+  --font-stack: var(--font-inter), var(--font-noto-sc), system-ui, sans-serif;
+}
+html[lang='ja'] {
+  --font-stack: var(--font-inter), var(--font-noto-jp), system-ui, sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+  }
+  body {
+    @apply bg-background text-foreground font-sans;
+    word-break: keep-all;
+  }
+}
+
+@utility scrollbar-none {
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@utility bg-grid {
+  background-image:
+    linear-gradient(to right, rgb(248 250 252 / 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgb(248 250 252 / 0.05) 1px, transparent 1px);
+  background-size: 56px 56px;
+}
+
+@keyframes orbit-pulse {
+  0% {
+    transform: scale(0.6);
+    opacity: 0.8;
+  }
+  100% {
+    transform: scale(1.8);
+    opacity: 0;
+  }
+}
+
+@utility animate-orbit-pulse {
+  animation: orbit-pulse 2.6s cubic-bezier(0.2, 0.6, 0.3, 1) infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-orbit-pulse {
+    animation: none;
+  }
+}

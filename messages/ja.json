@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "title": "R.O.C.K | スマートリングマウス — 次世代ウェアラブルインターフェース",
+    "description": "リングひとつでPC、モバイル、XR空間を操作。R.O.C.K Co., Ltd. 公式グローバルサイト。"
+  },
+  "nav": {
+    "products": "製品",
+    "technology": "テクノロジー",
+    "useCases": "活用シーン",
+    "about": "会社概要",
+    "contact": "お問い合わせ",
+    "inquiry": "お問い合わせ",
+    "language": "言語を選択",
+    "menu": "メニューを開く",
+    "home": "R.O.C.K ホームへ"
+  },
+  "hero": {
+    "eyebrow": "Smart Ring Mouse · Wearable Air Controller",
+    "title": "The Next Era of",
+    "titleAccent": "Human-Device Interaction",
+    "subtitle": "リングひとつでPC、モバイル、XR空間をコントロールする R.O.C.K スマートリングマウス。指先のわずかな動きが、新しいインターフェースになります。",
+    "ctaBrochure": "製品カタログをダウンロード",
+    "ctaPartner": "ビジネス提携のお問い合わせ",
+    "imageAlt": "充電ケースの上に浮かぶホワイトの R.O.C.K スマートリング",
+    "stats": [
+      {
+        "value": "6-Axis",
+        "label": "ジャイロ・モーションセンサー"
+      },
+      {
+        "value": "4 OS",
+        "label": "Windows · macOS · Android · iOS"
+      },
+      {
+        "value": "CES",
+        "label": "グローバル展示会出展"
+      }
+    ],
+    "liveLabel": "Air Gesture Tracking"
+  },
+  "features": {
+    "eyebrow": "Product Features",
+    "title": "指先に宿る、最も精密なコントローラー",
+    "subtitle": "モーション・タッチセンサーと人間工学デザインをひとつのリングに。",
+    "swipeHint": "スワイプしてもっと見る",
+    "productAlt": "再生/一時停止とタッチアイコンが刻まれた R.O.C.K スマートリング側面のクローズアップ",
+    "items": [
+      {
+        "title": "Air Motion & Touch Control",
+        "desc": "3D空間エアマウスと精密タッチで、クリック・ドラッグ・スクロール・エアジェスチャーを自在に。"
+      },
+      {
+        "title": "Ultra-Light Ergonomics",
+        "desc": "指輪のように軽い超軽量設計で、長時間の装着でも快適なフィット感。"
+      },
+      {
+        "title": "Seamless Multi-OS Pairing",
+        "desc": "Bluetoothでスマートフォン、PC、スマートTVをワンタッチ切り替え。"
+      },
+      {
+        "title": "Extended Battery Life",
+        "desc": "低消費電力設計と携帯用マグネット充電クレードルで長時間駆動。"
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Use Cases",
+    "title": "日常からビジネス、空間コンピューティングまで",
+    "subtitle": "ひとつのリングで、あらゆるデバイスと自然につながる。",
+    "items": [
+      {
+        "title": "Business & Presentation",
+        "desc": "プレゼン中のスライド送りやポインティングをリングひとつで。",
+        "alt": "スマートリングを着けた手でノートPCを持つビジネスユーザー"
+      },
+      {
+        "title": "Smart Workspace",
+        "desc": "手首への負担を抑えた、快適で自然なPC作業環境。",
+        "alt": "スマートリングを着けてノートPCのキーボードで作業する手"
+      },
+      {
+        "title": "Smart Home & Media",
+        "desc": "ソファからジェスチャーでスマートTVやモバイル動画をリモート操作。",
+        "alt": "リングを着けた指でスマートフォンを操作するユーザー"
+      },
+      {
+        "title": "XR & Spatial Computing",
+        "desc": "VR/ARグラスと連携する直感的なハンドインターフェース。",
+        "alt": "スマートリングを着けた人差し指で空中ジェスチャーをする手"
+      }
+    ]
+  },
+  "technology": {
+    "eyebrow": "Technology & Global Footprint",
+    "title": "独自技術が証明する精密さ",
+    "subtitle": "R.O.C.K はウェアラブルモーション認識分野で独自アルゴリズムと特許ポートフォリオを保有しています。",
+    "pillars": [
+      {
+        "title": "Motion Tracking Algorithm",
+        "desc": "指の微細な動きをノイズのないポインター軌跡に変換する独自センサーフュージョン。"
+      },
+      {
+        "title": "Wearable Sensor Patents",
+        "desc": "リング型モーション・タッチセンサー構造およびジェスチャー認識に関する国内外特許。"
+      },
+      {
+        "title": "Low-Power Architecture",
+        "desc": "超小型フォームファクターに最適化した低消費電力BLE通信と電源管理。"
+      }
+    ],
+    "timelineTitle": "グローバル展示会および主な沿革",
+    "timelineSubtitle": "2012年の設立以来、CES 4回参加、MWC、大統領経済使節団など世界的な舞台で技術力を実証してきたR.O.C.Kの軌跡です。",
+    "milestones": [
+      {
+        "period": "2012",
+        "title": "設立およびR&D着수",
+        "desc": "株式会社R.O.C.K設立、ウェアラブルインターフェースコア技術開発"
+      },
+      {
+        "period": "2018 - 2019",
+        "title": "グローバル市場進出",
+        "desc": "韓米・韓中首脳経済使節団参加、北京中関村THTI初の外国企業入居、SLUSH"
+      },
+      {
+        "period": "2020 - 2024",
+        "title": "世界舞台での検証",
+        "desc": "CES 2020/2024ブース出展、MWCバルセロナ、サウジピッチング3位"
+      },
+      {
+        "period": "2025 - 2026",
+        "title": "グローバルパートナーシップ拡大",
+        "desc": "CES 2025/2026参加、Plug & Play Chinaパートナー選定、深圳政府OPC"
+      }
+    ],
+    "categories": {
+      "exhibitions": "国内外の展示会",
+      "awards": "受賞および認定",
+      "media": "メディア掲載"
+    },
+    "exhibitionsList": [
+      {
+        "date": "2026.01",
+        "name": "CES 2026 'Eureka Park' ブース",
+        "location": "米国ラスベガス"
+      },
+      {
+        "date": "2025.04",
+        "name": "Plug & Play China Open Onnovation",
+        "location": "中国"
+      },
+      {
+        "date": "2025.01",
+        "name": "CES 2025 'Eureka Park' ブース",
+        "location": "米国ラスベガス"
+      },
+      {
+        "date": "2024.01",
+        "name": "CES 2024 'Eureka Park' ブース",
+        "location": "米国ラスベガス"
+      },
+      {
+        "date": "2021.04",
+        "name": "ロッテハイマート革新製品展示会",
+        "location": "韓国ソウル"
+      },
+      {
+        "date": "2020.05",
+        "name": "広州広交会(1期·3期)ブース (創振院選定)",
+        "location": "中国広州"
+      },
+      {
+        "date": "2020.02",
+        "name": "MWCブース参加 (KOTRA選定)",
+        "location": "スペインバルセロナ"
+      },
+      {
+        "date": "2020.01",
+        "name": "CES 2020 'Eureka Park' ブース (KOTRA)",
+        "location": "米国ラスベガス"
+      },
+      {
+        "date": "2019.08",
+        "name": "Vietnam Startup Wheel 2019",
+        "location": "ベトナムホーチミン"
+      },
+      {
+        "date": "2019.02",
+        "name": "Intel主催ロードショー",
+        "location": "中国深圳"
+      },
+      {
+        "date": "2018.11",
+        "name": "SLUSH参加 (KOTRA選定)",
+        "location": "フィンランドヘルシンキ"
+      }
+    ],
+    "awardsList": [
+      {
+        "date": "2026.03",
+        "title": "中国深圳市政府OPCプロジェクト選定",
+        "org": "深圳市政府"
+      },
+      {
+        "date": "2025.05",
+        "title": "Plug & Play Chinaパートナー選定",
+        "org": "Plug & Play"
+      },
+      {
+        "date": "2022.12",
+        "title": "安養市ハッカソン優秀賞",
+        "org": "安養市"
+      },
+      {
+        "date": "2021.12",
+        "title": "1人メディア大典第2位入賞",
+        "org": "科学技術情報通信部/ソウル市"
+      },
+      {
+        "date": "2021.11",
+        "title": "Step Saudi 2021ピッチングコンテスト第3位",
+        "org": "Step Conference (サウジ)"
+      },
+      {
+        "date": "2020.03",
+        "title": "第13回大韓民国サービス満足大賞",
+        "org": "韓国日報"
+      },
+      {
+        "date": "2019.12",
+        "title": "韓中首脳会談経済使節団参加",
+        "org": "北京"
+      },
+      {
+        "date": "2019.10",
+        "title": "韓米首脳会談経済使節団参加",
+        "org": "ニューヨーク"
+      },
+      {
+        "date": "2019.06",
+        "title": "グローバル創業活性化事業選定",
+        "org": "創業振興院"
+      },
+      {
+        "date": "2019.06",
+        "title": "北京中関村Innoway THTI初の外国企業入居",
+        "org": "北京中関村"
+      },
+      {
+        "date": "2012.01",
+        "title": "株式会社R.O.C.K設立",
+        "org": "大韓民国"
+      }
+    ],
+    "mediaList": [
+      {
+        "date": "2025.09",
+        "media": "Wikitree",
+        "title": "ジャイロセンサー搭載スマートリングマウス革新報道",
+        "url": "https://www.wikitree.co.kr/articles/1048964"
+      },
+      {
+        "date": "2025.08",
+        "media": "ITBizNews",
+        "title": "次世代ウェアラブルデバイスインターフェース",
+        "url": "https://www.itbiznews.com/news/articleView.html?idxno=177502"
+      },
+      {
+        "date": "2024.12",
+        "media": "Money Today",
+        "title": "R.O.C.Kスマートリングマウス未来技術力",
+        "url": "https://www.mt.co.kr/future/2024/12/03/2024120309173526851"
+      },
+      {
+        "date": "2021.01",
+        "media": "AVING News",
+        "title": "CES 2021革新的なリングマウステクノロジー披露",
+        "url": "https://url.kr/ashjfp"
+      },
+      {
+        "date": "2020.01",
+        "media": "Arirang TV",
+        "title": "CES現地グローバル放送インタビュー",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=170439"
+      },
+      {
+        "date": "2019.02",
+        "media": "MBCラジオ",
+        "title": "「手に取る経済」革新スタートアップ取材",
+        "url": "https://apple.co/2WRov7S"
+      },
+      {
+        "date": "2019.01",
+        "media": "中央日報",
+        "title": "China Labグローバルスタートアップ深層報道",
+        "url": "https://url.kr/jcgxbh"
+      },
+      {
+        "date": "2019.01",
+        "media": "Arirang TV",
+        "title": "グローバルインタビュー番組放映",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=150250"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About R.O.C.K",
+    "title": "人間中心のスマートインターフェース革新",
+    "body": "R.O.C.K は、人がテクノロジーに合わせるのではなく、テクノロジーが人の自然な動きに寄り添うべきだと考えます。最も小さなウェアラブルで、最も広いデジタル空間をつなぎます。",
+    "values": [
+      {
+        "title": "Human-Centric",
+        "desc": "人の自然な動作を基準に設計します。"
+      },
+      {
+        "title": "Precision",
+        "desc": "センサーからアルゴリズムまで精密さに妥協しません。"
+      },
+      {
+        "title": "Global",
+        "desc": "世界中のパートナーと新しい入力標準をつくります。"
+      }
+    ],
+    "partnerTitle": "ビジネスパートナーシップ",
+    "partnerBody": "OEM/ODM、グローバル流通、法人向け大量購入など多様な協業モデルをご提案します。",
+    "visitSite": "公式サイトへ",
+    "galleryTitle": "Everyday Design",
+    "galleryAlts": [
+      "白背景の R.O.C.K スマートリング製品写真",
+      "ノートPCの上に置かれた R.O.C.K スマートリングと充電端子",
+      "ノートPCの前でスマートリングを着けた手"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "グローバルビジネスのお問い合わせ",
+    "subtitle": "バイヤー、パートナー、お客様からのお問い合わせをお待ちしています。2営業日以内にご返信いたします。",
+    "name": "お名前",
+    "company": "会社名",
+    "country": "国・地域",
+    "email": "メールアドレス",
+    "type": "お問い合わせ種別",
+    "message": "お問い合わせ内容",
+    "placeholderName": "山田 太郎",
+    "placeholderCompany": "会社名を入力",
+    "placeholderCountry": "日本",
+    "placeholderEmail": "name@company.com",
+    "placeholderMessage": "お問い合わせ内容をご記入ください。",
+    "selectType": "種別を選択",
+    "types": {
+      "oem": "OEM/ODM",
+      "distribution": "流通・販売代理",
+      "bulk": "大量購入",
+      "brochure": "カタログ請求",
+      "other": "その他"
+    },
+    "submit": "送信する",
+    "submitting": "送信中...",
+    "success": "お問い合わせを受け付けました。追ってご連絡いたします。",
+    "error": "必須項目を正しく入力してください。",
+    "privacy": "送信により、お問い合わせ対応のための個人情報の収集・利用に同意したものとみなされます。"
+  },
+  "footer": {
+    "tagline": "次世代インターフェースは、指先から。",
+    "company": "R.O.C.K Co., Ltd.",
+    "bizNo": "事業者登録番号",
+    "address": "所在地",
+    "addressValue": "大韓民国 ソウル特別市 中区 世宗大路22キル 12 光化門Gスクエア 12階",
+    "email": "メール",
+    "sitemap": "サイトマップ",
+    "languages": "グローバルサイト",
+    "rights": "All rights reserved."
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "title": "R.O.C.K | Smart Ring Mouse — The Next Wearable Interface",
+    "description": "Control your PC, mobile and XR space with a single ring. The official global website of R.O.C.K Co., Ltd."
+  },
+  "nav": {
+    "products": "Products",
+    "technology": "Technology",
+    "useCases": "Use Cases",
+    "about": "About R.O.C.K",
+    "contact": "Contact",
+    "inquiry": "Inquiry",
+    "language": "Select language",
+    "menu": "Open menu",
+    "home": "Go to R.O.C.K home"
+  },
+  "hero": {
+    "eyebrow": "Smart Ring Mouse · Wearable Air Controller",
+    "title": "The Next Era of",
+    "titleAccent": "Human-Device Interaction",
+    "subtitle": "The R.O.C.K Smart Ring Mouse lets you control PCs, mobile devices and XR spaces with a single ring. The smallest movement of your fingertip becomes a new interface.",
+    "ctaBrochure": "Download Brochure",
+    "ctaPartner": "Partnership Inquiry",
+    "imageAlt": "White R.O.C.K smart ring floating above its charging case",
+    "stats": [
+      {
+        "value": "6-Axis",
+        "label": "Gyro & motion sensing"
+      },
+      {
+        "value": "4 OS",
+        "label": "Windows · macOS · Android · iOS"
+      },
+      {
+        "value": "CES",
+        "label": "Global exhibitor"
+      }
+    ],
+    "liveLabel": "Air Gesture Tracking"
+  },
+  "features": {
+    "eyebrow": "Product Features",
+    "title": "The most precise controller, on your finger",
+    "subtitle": "Motion sensing, touch sensing and ergonomic design — engineered into a single ring.",
+    "swipeHint": "Swipe to see more",
+    "productAlt": "Close-up of the R.O.C.K smart ring side with play/pause and touch icons",
+    "items": [
+      {
+        "title": "Air Motion & Touch Control",
+        "desc": "3D air-mouse pointing plus precise touch for click, drag, scroll and air gestures."
+      },
+      {
+        "title": "Ultra-Light Ergonomics",
+        "desc": "An ultra-light ring form factor that stays comfortable through long sessions."
+      },
+      {
+        "title": "Seamless Multi-OS Pairing",
+        "desc": "Bluetooth one-touch switching between smartphone, PC and smart TV."
+      },
+      {
+        "title": "Extended Battery Life",
+        "desc": "Low-power architecture and a portable magnetic charging cradle."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Use Cases",
+    "title": "From everyday life to spatial computing",
+    "subtitle": "One ring to interact with every device around you.",
+    "items": [
+      {
+        "title": "Business & Presentation",
+        "desc": "Advance slides and point freely — replace your laser pointer with a ring.",
+        "alt": "Business user carrying a laptop while wearing the smart ring"
+      },
+      {
+        "title": "Smart Workspace",
+        "desc": "A natural, comfortable computing setup without wrist strain.",
+        "alt": "Hands typing on a laptop keyboard while wearing the smart ring"
+      },
+      {
+        "title": "Smart Home & Media",
+        "desc": "Control your smart TV and mobile media with gestures from the couch.",
+        "alt": "User controlling a smartphone with a ring-worn finger"
+      },
+      {
+        "title": "XR & Spatial Computing",
+        "desc": "An intuitive hand interface for VR and AR glasses.",
+        "alt": "Index finger wearing the smart ring making an air gesture"
+      }
+    ]
+  },
+  "technology": {
+    "eyebrow": "Technology & Global Footprint",
+    "title": "Precision proven by core technology",
+    "subtitle": "R.O.C.K owns proprietary algorithms and a patent portfolio in wearable motion recognition.",
+    "pillars": [
+      {
+        "title": "Motion Tracking Algorithm",
+        "desc": "Proprietary sensor fusion that turns subtle finger motion into clean pointer trajectories."
+      },
+      {
+        "title": "Wearable Sensor Patents",
+        "desc": "Domestic and international patents on ring-type motion/touch sensors and gesture recognition."
+      },
+      {
+        "title": "Low-Power Architecture",
+        "desc": "Low-power BLE and power management optimized for an ultra-compact form factor."
+      }
+    ],
+    "timelineTitle": "Global Exhibitions & Key Milestones",
+    "timelineSubtitle": "Since its establishment in 2012, R.O.C.K has proven its innovation across 4 CES appearances, MWC, and presidential economic missions.",
+    "milestones": [
+      {
+        "period": "2012",
+        "title": "Establishment & R&D",
+        "desc": "R.O.C.K Co., Ltd. founded, core wearable interface technology developed"
+      },
+      {
+        "period": "2018 - 2019",
+        "title": "Global Expansion",
+        "desc": "Presidential economic missions (USA/China), Innoway THTI Beijing, SLUSH"
+      },
+      {
+        "period": "2020 - 2024",
+        "title": "Global Validation",
+        "desc": "CES 2020/2024 booths, MWC Barcelona, Step Saudi 3rd Place"
+      },
+      {
+        "period": "2025 - 2026",
+        "title": "Partnership Scale-up",
+        "desc": "CES 2025/2026, Plug & Play China Partner, Shenzhen Govt OPC selected"
+      }
+    ],
+    "categories": {
+      "exhibitions": "Global Exhibitions",
+      "awards": "Awards & Honors",
+      "media": "Media Coverage"
+    },
+    "exhibitionsList": [
+      {
+        "date": "2026.01",
+        "name": "CES 2026 'Eureka Park' Booth",
+        "location": "Las Vegas, USA"
+      },
+      {
+        "date": "2025.04",
+        "name": "Plug & Play China Open Onnovation",
+        "location": "China"
+      },
+      {
+        "date": "2025.01",
+        "name": "CES 2025 'Eureka Park' Booth",
+        "location": "Las Vegas, USA"
+      },
+      {
+        "date": "2024.01",
+        "name": "CES 2024 'Eureka Park' Booth",
+        "location": "Las Vegas, USA"
+      },
+      {
+        "date": "2021.04",
+        "name": "Lotte Hi-Mart Innovation Showcase",
+        "location": "Seoul, Korea"
+      },
+      {
+        "date": "2020.05",
+        "name": "Canton Fair Booths (KISED selected)",
+        "location": "Guangzhou, China"
+      },
+      {
+        "date": "2020.02",
+        "name": "MWC Booth (KOTRA selected)",
+        "location": "Barcelona, Spain"
+      },
+      {
+        "date": "2020.01",
+        "name": "CES 2020 'Eureka Park' Booth (KOTRA)",
+        "location": "Las Vegas, USA"
+      },
+      {
+        "date": "2019.08",
+        "name": "Vietnam Startup Wheel 2019",
+        "location": "Ho Chi Minh, Vietnam"
+      },
+      {
+        "date": "2019.02",
+        "name": "Intel Hosted Roadshow",
+        "location": "Shenzhen, China"
+      },
+      {
+        "date": "2018.11",
+        "name": "SLUSH (KOTRA selected)",
+        "location": "Helsinki, Finland"
+      }
+    ],
+    "awardsList": [
+      {
+        "date": "2026.03",
+        "title": "Shenzhen Govt OPC Program Selected",
+        "org": "Shenzhen Government"
+      },
+      {
+        "date": "2025.05",
+        "title": "Plug & Play China Partner Selected",
+        "org": "Plug & Play"
+      },
+      {
+        "date": "2022.12",
+        "title": "Anyang-si Hackathon Excellence Award",
+        "org": "Anyang City"
+      },
+      {
+        "date": "2021.12",
+        "title": "1-Person Media Contest 2nd Prize",
+        "org": "MSIT / Seoul City"
+      },
+      {
+        "date": "2021.11",
+        "title": "Step Saudi 2021 Pitching 3rd Reward",
+        "org": "Step Conference (Saudi)"
+      },
+      {
+        "date": "2020.03",
+        "title": "13th Korea Service Satisfaction Grand Prize",
+        "org": "Hankook Ilbo"
+      },
+      {
+        "date": "2019.12",
+        "title": "Korea-China Summit Economic Delegation",
+        "org": "Beijing"
+      },
+      {
+        "date": "2019.10",
+        "title": "Korea-US Summit Economic Delegation",
+        "org": "New York"
+      },
+      {
+        "date": "2019.06",
+        "title": "Global Startup Activation Project Selected",
+        "org": "KISED"
+      },
+      {
+        "date": "2019.06",
+        "title": "Beijing Zhongguancun Innoway THTI Incubation",
+        "org": "1st Non-Chinese Firm"
+      },
+      {
+        "date": "2012.01",
+        "title": "R.O.C.K Co., Ltd. Founded",
+        "org": "Republic of Korea"
+      }
+    ],
+    "mediaList": [
+      {
+        "date": "2025.09",
+        "media": "Wikitree",
+        "title": "Smart Ring Mouse Equipped with Gyro Sensor",
+        "url": "https://www.wikitree.co.kr/articles/1048964"
+      },
+      {
+        "date": "2025.08",
+        "media": "ITBizNews",
+        "title": "Next-Gen Wearable Device Interface",
+        "url": "https://www.itbiznews.com/news/articleView.html?idxno=177502"
+      },
+      {
+        "date": "2024.12",
+        "media": "Money Today",
+        "title": "R.O.C.K Smart Ring Mouse Future Technology",
+        "url": "https://www.mt.co.kr/future/2024/12/03/2024120309173526851"
+      },
+      {
+        "date": "2021.01",
+        "media": "AVING News",
+        "title": "Unveiling Innovative Ring Mouse Tech at CES",
+        "url": "https://url.kr/ashjfp"
+      },
+      {
+        "date": "2020.01",
+        "media": "Arirang TV",
+        "title": "Global Live Interview at CES",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=170439"
+      },
+      {
+        "date": "2019.02",
+        "media": "MBC Radio",
+        "title": "Interview on Innovative Hardware Startups",
+        "url": "https://apple.co/2WRov7S"
+      },
+      {
+        "date": "2019.01",
+        "media": "JoongAng Ilbo",
+        "title": "China Lab Global Startup In-Depth Feature",
+        "url": "https://url.kr/jcgxbh"
+      },
+      {
+        "date": "2019.01",
+        "media": "Arirang TV",
+        "title": "Global Startup Spotlight Broadcast",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=150250"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About R.O.C.K",
+    "title": "Human-centric smart interface innovation",
+    "body": "At R.O.C.K, we believe technology should adapt to natural human movement — not the other way around. We connect the widest digital spaces through the smallest wearable.",
+    "values": [
+      {
+        "title": "Human-Centric",
+        "desc": "Designed around natural human motion."
+      },
+      {
+        "title": "Precision",
+        "desc": "No compromise from sensor to algorithm."
+      },
+      {
+        "title": "Global",
+        "desc": "Building new input standards with partners worldwide."
+      }
+    ],
+    "partnerTitle": "Business Partnerships",
+    "partnerBody": "We offer flexible cooperation models including OEM/ODM, global distribution and enterprise bulk purchasing.",
+    "visitSite": "Visit official site",
+    "galleryTitle": "Everyday Design",
+    "galleryAlts": [
+      "R.O.C.K smart ring product shot on a white background",
+      "R.O.C.K smart ring resting on a laptop, showing its charging contacts",
+      "Hand wearing the smart ring in front of a laptop"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Global business inquiry",
+    "subtitle": "Buyers, partners and customers — we would love to hear from you. We reply within 2 business days.",
+    "name": "Name",
+    "company": "Company",
+    "country": "Country",
+    "email": "Email",
+    "type": "Inquiry type",
+    "message": "Message",
+    "placeholderName": "Jane Doe",
+    "placeholderCompany": "Your company",
+    "placeholderCountry": "United States",
+    "placeholderEmail": "name@company.com",
+    "placeholderMessage": "Tell us about your inquiry.",
+    "selectType": "Select a type",
+    "types": {
+      "oem": "OEM/ODM",
+      "distribution": "Distribution",
+      "bulk": "Bulk Purchase",
+      "brochure": "Brochure Request",
+      "other": "Other"
+    },
+    "submit": "Send inquiry",
+    "submitting": "Sending...",
+    "success": "Your inquiry has been received. We will be in touch shortly.",
+    "error": "Please fill in all required fields correctly.",
+    "privacy": "By submitting, you agree to the collection and use of your information to respond to your inquiry."
+  },
+  "footer": {
+    "tagline": "The next interface begins at your fingertip.",
+    "company": "R.O.C.K Co., Ltd.",
+    "bizNo": "Business Reg. No.",
+    "address": "Address",
+    "addressValue": "12F, Gwanghwamun G-Square, 12 Sejong-daero 22-gil, Jung-gu, Seoul, Republic of Korea",
+    "email": "Email",
+    "sitemap": "Sitemap",
+    "languages": "Global sites",
+    "rights": "All rights reserved."
+  }
+}

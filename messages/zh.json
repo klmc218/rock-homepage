@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "title": "R.O.C.K | 智能指环鼠标 — 新一代可穿戴交互界面",
+    "description": "一枚指环即可操控电脑、手机与 XR 空间。R.O.C.K Co., Ltd. 官方全球网站。"
+  },
+  "nav": {
+    "products": "产品",
+    "technology": "技术",
+    "useCases": "应用场景",
+    "about": "关于 R.O.C.K",
+    "contact": "联系",
+    "inquiry": "咨询",
+    "language": "选择语言",
+    "menu": "打开菜单",
+    "home": "返回 R.O.C.K 首页"
+  },
+  "hero": {
+    "eyebrow": "Smart Ring Mouse · Wearable Air Controller",
+    "title": "The Next Era of",
+    "titleAccent": "Human-Device Interaction",
+    "subtitle": "R.O.C.K 智能指环鼠标，一枚指环即可操控电脑、手机与 XR 空间。指尖的细微动作，就是全新的交互界面。",
+    "ctaBrochure": "下载产品手册",
+    "ctaPartner": "商务合作咨询",
+    "imageAlt": "悬浮在充电盒上方的白色 R.O.C.K 智能戒指",
+    "stats": [
+      {
+        "value": "6-Axis",
+        "label": "陀螺仪与运动传感器"
+      },
+      {
+        "value": "4 OS",
+        "label": "Windows · macOS · Android · iOS"
+      },
+      {
+        "value": "CES",
+        "label": "全球展会参展"
+      }
+    ],
+    "liveLabel": "Air Gesture Tracking"
+  },
+  "features": {
+    "eyebrow": "Product Features",
+    "title": "戴在指尖上的精准控制器",
+    "subtitle": "将运动传感、触控传感与人体工学设计融于一枚指环。",
+    "swipeHint": "左右滑动查看更多",
+    "productAlt": "R.O.C.K 智能戒指侧面特写，带有播放/暂停与触控图标",
+    "items": [
+      {
+        "title": "Air Motion & Touch Control",
+        "desc": "三维空中鼠标与精准触控，自由完成点击、拖拽、滚动与空中手势。"
+      },
+      {
+        "title": "Ultra-Light Ergonomics",
+        "desc": "如戒指般轻盈的超轻设计，长时间佩戴依然舒适。"
+      },
+      {
+        "title": "Seamless Multi-OS Pairing",
+        "desc": "基于蓝牙，一键切换手机、电脑与智能电视。"
+      },
+      {
+        "title": "Extended Battery Life",
+        "desc": "低功耗设计搭配便携式磁吸充电底座，续航持久。"
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Use Cases",
+    "title": "从日常到商务，再到空间计算",
+    "subtitle": "一枚指环，与身边所有设备自然交互。",
+    "items": [
+      {
+        "title": "Business & Presentation",
+        "desc": "演讲时自由翻页与指点，一枚指环取代激光笔。",
+        "alt": "佩戴智能戒指、手持笔记本电脑的商务用户"
+      },
+      {
+        "title": "Smart Workspace",
+        "desc": "告别手腕疲劳，打造舒适自然的电脑办公环境。",
+        "alt": "佩戴智能戒指在笔记本键盘上工作的双手"
+      },
+      {
+        "title": "Smart Home & Media",
+        "desc": "在沙发上用手势远程操控智能电视与移动影音。",
+        "alt": "用佩戴戒指的手指操控智能手机的用户"
+      },
+      {
+        "title": "XR & Spatial Computing",
+        "desc": "与 VR/AR 眼镜联动的直观手部交互界面。",
+        "alt": "佩戴智能戒指的食指在空中做手势"
+      }
+    ]
+  },
+  "technology": {
+    "eyebrow": "Technology & Global Footprint",
+    "title": "以核心技术证明的精准",
+    "subtitle": "R.O.C.K 在可穿戴运动识别领域拥有自主算法与专利组合。",
+    "pillars": [
+      {
+        "title": "Motion Tracking Algorithm",
+        "desc": "自研传感器融合算法，将细微的手指动作转化为平滑无噪的指针轨迹。"
+      },
+      {
+        "title": "Wearable Sensor Patents",
+        "desc": "拥有指环式运动/触控传感结构及手势识别相关的国内外专利。"
+      },
+      {
+        "title": "Low-Power Architecture",
+        "desc": "针对超小型设备优化的低功耗 BLE 通信与电源管理设计。"
+      }
+    ],
+    "timelineTitle": "全球展会与核心历程",
+    "timelineSubtitle": "自2012年成立以来，R.O.C.K历经4届CES、MWC及首脑经济使节团，在国际舞台充分证明了卓越技术实力。",
+    "milestones": [
+      {
+        "period": "2012",
+        "title": "成立与研发启动",
+        "desc": "株式会社R.O.C.K成立，开启可穿戴交互核心技术研发"
+      },
+      {
+        "period": "2018 - 2019",
+        "title": "进军全球市场",
+        "desc": "参加韩美·韩中首脑经济使节团，北京中关村非中国企业首次入驻，SLUSH"
+      },
+      {
+        "period": "2020 - 2024",
+        "title": "国际舞台验证",
+        "desc": "CES 2020/2024展位、巴塞罗那MWC、沙特Step路演季军"
+      },
+      {
+        "period": "2025 - 2026",
+        "title": "全球生态扩展",
+        "desc": "连续参加CES 2025/2026，Plug & Play China合作伙伴，入选中关村/深圳OPC"
+      }
+    ],
+    "categories": {
+      "exhibitions": "国内外展会",
+      "awards": "荣誉与认证",
+      "media": "媒体报道"
+    },
+    "exhibitionsList": [
+      {
+        "date": "2026.01",
+        "name": "CES 2026 'Eureka Park' 展位",
+        "location": "美国拉斯维加斯"
+      },
+      {
+        "date": "2025.04",
+        "name": "Plug & Play China Open Onnovation",
+        "location": "中国"
+      },
+      {
+        "date": "2025.01",
+        "name": "CES 2025 'Eureka Park' 展位",
+        "location": "美国拉斯维加斯"
+      },
+      {
+        "date": "2024.01",
+        "name": "CES 2024 'Eureka Park' 展位",
+        "location": "美国拉斯维加斯"
+      },
+      {
+        "date": "2021.04",
+        "name": "乐天Hi-Mart创新产品展",
+        "location": "韩国首尔"
+      },
+      {
+        "date": "2020.05",
+        "name": "广交会(1期·3期)展位 (创振院选定)",
+        "location": "中国广州"
+      },
+      {
+        "date": "2020.02",
+        "name": "MWC展位 (KOTRA选定)",
+        "location": "西班牙巴塞罗那"
+      },
+      {
+        "date": "2020.01",
+        "name": "CES 2020 'Eureka Park' 展位 (KOTRA)",
+        "location": "美国拉斯维加斯"
+      },
+      {
+        "date": "2019.08",
+        "name": "Vietnam Startup Wheel 2019",
+        "location": "越南胡志明"
+      },
+      {
+        "date": "2019.02",
+        "name": "英特尔(Intel)主办路演",
+        "location": "中国深圳"
+      },
+      {
+        "date": "2018.11",
+        "name": "SLUSH参展 (KOTRA选定)",
+        "location": "芬兰赫尔辛基"
+      }
+    ],
+    "awardsList": [
+      {
+        "date": "2026.03",
+        "title": "入选中关村/深圳市政府OPC项目",
+        "org": "深圳市政府"
+      },
+      {
+        "date": "2025.05",
+        "title": "选定为Plug & Play China合作伙伴",
+        "org": "Plug & Play"
+      },
+      {
+        "date": "2022.12",
+        "title": "安养市黑客马拉松优秀奖",
+        "org": "安养市政府"
+      },
+      {
+        "date": "2021.12",
+        "title": "一人媒体大展亚军 (科技部/首尔市)",
+        "org": "科技信息通信部"
+      },
+      {
+        "date": "2021.11",
+        "title": "Step Saudi 2021路演大赛第3名",
+        "org": "Step Conference (沙特)"
+      },
+      {
+        "date": "2020.03",
+        "title": "第13届韩国服务满意大奖 (IT服务)",
+        "org": "韩国日报"
+      },
+      {
+        "date": "2019.12",
+        "title": "参加韩中首脑会谈经济使节团",
+        "org": "北京"
+      },
+      {
+        "date": "2019.10",
+        "title": "参加韩美首脑会谈经济使节团",
+        "org": "纽约"
+      },
+      {
+        "date": "2019.06",
+        "title": "入选全球创业赋能项目",
+        "org": "韩国创业振兴院"
+      },
+      {
+        "date": "2019.06",
+        "title": "入驻北京中关村Innoway THTI孵化器",
+        "org": "首家非中国企业"
+      },
+      {
+        "date": "2012.01",
+        "title": "株式会社R.O.C.K正式成立",
+        "org": "大韩民国"
+      }
+    ],
+    "mediaList": [
+      {
+        "date": "2025.09",
+        "media": "Wikitree",
+        "title": "搭载陀螺仪传感器的智能指环鼠标创新",
+        "url": "https://www.wikitree.co.kr/articles/1048964"
+      },
+      {
+        "date": "2025.08",
+        "media": "ITBizNews",
+        "title": "下一代可穿戴设备人机交互界面",
+        "url": "https://www.itbiznews.com/news/articleView.html?idxno=177502"
+      },
+      {
+        "date": "2024.12",
+        "media": "Money Today",
+        "title": "R.O.C.K智能指环鼠标未来技术力",
+        "url": "https://www.mt.co.kr/future/2024/12/03/2024120309173526851"
+      },
+      {
+        "date": "2021.01",
+        "media": "AVING News",
+        "title": "CES展示颠覆性指环鼠标技术",
+        "url": "https://url.kr/ashjfp"
+      },
+      {
+        "date": "2020.01",
+        "media": "阿里郎TV",
+        "title": "CES现场全球电视专访",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=170439"
+      },
+      {
+        "date": "2019.02",
+        "media": "MBC广播",
+        "title": "经济专栏专访创新硬件创业团队",
+        "url": "https://apple.co/2WRov7S"
+      },
+      {
+        "date": "2019.01",
+        "media": "中央日报",
+        "title": "China Lab全球创业企业深度报道",
+        "url": "https://url.kr/jcgxbh"
+      },
+      {
+        "date": "2019.01",
+        "media": "阿里郎TV",
+        "title": "全球创新科技栏目报道",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=150250"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About R.O.C.K",
+    "title": "以人为本的智能交互创新",
+    "body": "R.O.C.K 相信，不是人去适应技术，而是技术应当顺应人的自然动作。我们用最小的可穿戴设备，连接最广阔的数字空间。",
+    "values": [
+      {
+        "title": "Human-Centric",
+        "desc": "以人的自然动作为设计基准。"
+      },
+      {
+        "title": "Precision",
+        "desc": "从传感器到算法，绝不妥协于精准。"
+      },
+      {
+        "title": "Global",
+        "desc": "与全球伙伴共同打造新的输入标准。"
+      }
+    ],
+    "partnerTitle": "商务合作",
+    "partnerBody": "提供 OEM/ODM、全球分销、企业批量采购等多种合作模式。",
+    "visitSite": "访问官方网站",
+    "galleryTitle": "Everyday Design",
+    "galleryAlts": [
+      "白色背景上的 R.O.C.K 智能戒指产品照",
+      "放在笔记本电脑上的 R.O.C.K 智能戒指及其充电触点",
+      "在笔记本电脑前佩戴智能戒指的手"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "全球商务咨询",
+    "subtitle": "期待来自买家、合作伙伴与客户的咨询，我们将在 2 个工作日内回复。",
+    "name": "姓名",
+    "company": "公司名称",
+    "country": "国家/地区",
+    "email": "电子邮箱",
+    "type": "咨询类型",
+    "message": "咨询内容",
+    "placeholderName": "张三",
+    "placeholderCompany": "请输入公司名称",
+    "placeholderCountry": "中国",
+    "placeholderEmail": "name@company.com",
+    "placeholderMessage": "请描述您的咨询内容。",
+    "selectType": "请选择类型",
+    "types": {
+      "oem": "OEM/ODM",
+      "distribution": "分销",
+      "bulk": "批量采购",
+      "brochure": "索取产品手册",
+      "other": "其他"
+    },
+    "submit": "提交咨询",
+    "submitting": "提交中...",
+    "success": "您的咨询已提交，我们会尽快与您联系。",
+    "error": "请正确填写所有必填项。",
+    "privacy": "提交即表示您同意我们为回复咨询而收集和使用您的信息。"
+  },
+  "footer": {
+    "tagline": "新一代交互界面，从指尖开始。",
+    "company": "R.O.C.K Co., Ltd.",
+    "bizNo": "营业执照号",
+    "address": "地址",
+    "addressValue": "首尔特别市中区世宗大路22街12 光化门G-Square 12层",
+    "email": "电子邮箱",
+    "sitemap": "网站地图",
+    "languages": "全球站点",
+    "rights": "All rights reserved."
+  }
+}

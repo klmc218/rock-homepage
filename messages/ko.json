@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "title": "R.O.C.K | 스마트 링 마우스 — 차세대 웨어러블 인터페이스",
+    "description": "반지 하나로 PC, 모바일, XR 공간을 제어하는 R.O.C.K 스마트 링 마우스. 주식회사 알오씨케이 공식 글로벌 홈페이지."
+  },
+  "nav": {
+    "products": "제품",
+    "technology": "기술",
+    "useCases": "활용 사례",
+    "about": "회사 소개",
+    "contact": "문의",
+    "inquiry": "문의하기",
+    "language": "언어 선택",
+    "menu": "메뉴 열기",
+    "home": "R.O.C.K 홈으로 이동"
+  },
+  "hero": {
+    "eyebrow": "Smart Ring Mouse · Wearable Air Controller",
+    "title": "The Next Era of",
+    "titleAccent": "Human-Device Interaction",
+    "subtitle": "반지 하나로 PC, 모바일, XR 공간을 제어하는 R.O.C.K 스마트 링 마우스. 손끝의 작은 움직임이 새로운 인터페이스가 됩니다.",
+    "ctaBrochure": "제품 브로슈어 다운로드",
+    "ctaPartner": "비즈니스 제휴 문의",
+    "imageAlt": "충전 케이스 위에 떠 있는 화이트 R.O.C.K 스마트 링",
+    "stats": [
+      {
+        "value": "6-Axis",
+        "label": "자이로·모션 센서"
+      },
+      {
+        "value": "4 OS",
+        "label": "Windows · macOS · Android · iOS"
+      },
+      {
+        "value": "CES",
+        "label": "글로벌 전시 출품"
+      }
+    ],
+    "liveLabel": "Air Gesture Tracking"
+  },
+  "features": {
+    "eyebrow": "Product Features",
+    "title": "손가락 위의 가장 정밀한 컨트롤러",
+    "subtitle": "모션·터치 센서와 인체공학 설계를 하나의 링에 담았습니다.",
+    "swipeHint": "옆으로 밀어 더 보기",
+    "productAlt": "재생/일시정지와 터치 아이콘이 새겨진 R.O.C.K 스마트 링 측면 클로즈업",
+    "items": [
+      {
+        "title": "Air Motion & Touch Control",
+        "desc": "3차원 공간 에어마우스와 정밀 터치로 클릭, 드래그, 스크롤, 에어 제스처까지 자유롭게."
+      },
+      {
+        "title": "Ultra-Light Ergonomics",
+        "desc": "반지처럼 가벼운 초경량 설계로 장시간 착용해도 편안한 인체공학적 핏."
+      },
+      {
+        "title": "Seamless Multi-OS Pairing",
+        "desc": "블루투스 기반으로 스마트폰, PC, 스마트TV 사이를 원터치로 전환."
+      },
+      {
+        "title": "Extended Battery Life",
+        "desc": "저전력 설계와 휴대용 마그네틱 충전 크래들로 언제 어디서나 오래도록."
+      }
+    ]
+  },
+  "useCases": {
+    "eyebrow": "Use Cases",
+    "title": "일상과 비즈니스, 공간 컴퓨팅까지",
+    "subtitle": "하나의 링으로 모든 디바이스와 상호작용하세요.",
+    "items": [
+      {
+        "title": "Business & Presentation",
+        "desc": "발표 중 자유로운 슬라이드 넘김과 레이저 포인팅을 링 하나로 대체합니다.",
+        "alt": "스마트 링을 낀 손으로 노트북을 들고 이동하는 비즈니스 사용자"
+      },
+      {
+        "title": "Smart Workspace",
+        "desc": "손목 터널 증후군 걱정 없는 편안하고 자연스러운 컴퓨터 작업 환경.",
+        "alt": "스마트 링을 착용한 채 노트북 키보드로 작업하는 손"
+      },
+      {
+        "title": "Smart Home & Media",
+        "desc": "스마트TV와 모바일 영상 감상 시 소파에서 원격 제스처로 컨트롤.",
+        "alt": "스마트 링을 낀 손가락으로 스마트폰 화면을 제어하는 사용자"
+      },
+      {
+        "title": "XR & Spatial Computing",
+        "desc": "VR/AR 글래스와 연동되는 직관적인 핸드 인터페이스.",
+        "alt": "스마트 링을 착용한 검지로 허공에 제스처를 취하는 손"
+      }
+    ]
+  },
+  "technology": {
+    "eyebrow": "Technology & Global Footprint",
+    "title": "원천 기술로 증명하는 정밀함",
+    "subtitle": "R.O.C.K은 웨어러블 모션 인식 분야의 독자 알고리즘과 특허 포트폴리오를 보유하고 있습니다.",
+    "pillars": [
+      {
+        "title": "Motion Tracking Algorithm",
+        "desc": "미세한 손가락 움직임을 노이즈 없이 포인터 궤적으로 변환하는 자체 센서 퓨전 알고리즘."
+      },
+      {
+        "title": "Wearable Sensor Patents",
+        "desc": "링 형태의 모션·터치 센서 구조 및 제스처 인식 관련 국내외 특허 보유."
+      },
+      {
+        "title": "Low-Power Architecture",
+        "desc": "초소형 폼팩터에 최적화된 저전력 BLE 통신 및 전력 관리 설계."
+      }
+    ],
+    "timelineTitle": "글로벌 전시 및 주요 연혁",
+    "timelineSubtitle": "2012년 설립 이래 CES 4회 참가, MWC, 정상회담 경제사절단 등 글로벌 무대에서 검증된 R.O.C.K의 혁신 역사입니다.",
+    "milestones": [
+      {
+        "period": "2012",
+        "title": "설립 및 R&D 착수",
+        "desc": "주식회사 알오씨케이 설립, 웨어러블 인터페이스 원천 기술 개발"
+      },
+      {
+        "period": "2018 - 2019",
+        "title": "글로벌 시장 진출",
+        "desc": "한미·한중 정상회담 사절단 참석, 북경 중관촌 최초 입주, SLUSH 참가"
+      },
+      {
+        "period": "2020 - 2024",
+        "title": "세계 무대 검증",
+        "desc": "CES 2020/2024 부스, MWC 바르셀로나, 사우디 피칭 3위 수상"
+      },
+      {
+        "period": "2025 - 2026",
+        "title": "글로벌 파트너십 확장",
+        "desc": "CES 2025/2026 참가, Plug & Play China 파트너 및 심천 정부 OPC 선정"
+      }
+    ],
+    "categories": {
+      "exhibitions": "국내외 전시회",
+      "awards": "수상 및 인증",
+      "media": "언론 소개"
+    },
+    "exhibitionsList": [
+      {
+        "date": "2026.01",
+        "name": "CES 2026 'Eureka Park' 부스",
+        "location": "미국 라스베이거스"
+      },
+      {
+        "date": "2025.04",
+        "name": "Plug & Play China Open Onnovation",
+        "location": "중국"
+      },
+      {
+        "date": "2025.01",
+        "name": "CES 2025 'Eureka Park' 부스",
+        "location": "미국 라스베이거스"
+      },
+      {
+        "date": "2024.01",
+        "name": "CES 2024 'Eureka Park' 부스",
+        "location": "미국 라스베이거스"
+      },
+      {
+        "date": "2021.04",
+        "name": "롯데하이마트 혁신제품 전시회",
+        "location": "대한민국 서울"
+      },
+      {
+        "date": "2020.05",
+        "name": "캔톤페어(1기·3기) 부스 (창진원 선정)",
+        "location": "중국 광저우"
+      },
+      {
+        "date": "2020.02",
+        "name": "MWC 부스 참가 (KOTRA 선정)",
+        "location": "스페인 바르셀로나"
+      },
+      {
+        "date": "2020.01",
+        "name": "CES 2020 'Eureka Park' 부스 (KOTRA 선정)",
+        "location": "미국 라스베이거스"
+      },
+      {
+        "date": "2019.08",
+        "name": "Vietnam Startup Wheel 2019",
+        "location": "베트남 호치민"
+      },
+      {
+        "date": "2019.02",
+        "name": "인텔(Intel) 주최 Roadshow",
+        "location": "중국 심천"
+      },
+      {
+        "date": "2018.11",
+        "name": "SLUSH 참가 (KOTRA 선정)",
+        "location": "핀란드 헬싱키"
+      }
+    ],
+    "awardsList": [
+      {
+        "date": "2026.03",
+        "title": "중국 심천 정부 OPC 선정",
+        "org": "심천시 정부"
+      },
+      {
+        "date": "2025.05",
+        "title": "Plug & Play China 파트너 선정",
+        "org": "Plug & Play"
+      },
+      {
+        "date": "2022.12",
+        "title": "안양시 해커톤 우수상 입상",
+        "org": "안양시"
+      },
+      {
+        "date": "2021.12",
+        "title": "1인 미디어대전 2위 입상",
+        "org": "과기정통부 / 서울시"
+      },
+      {
+        "date": "2021.11",
+        "title": "Step Saudi 2021 Pitching Contest 3위",
+        "org": "Step Conference (사우디)"
+      },
+      {
+        "date": "2020.03",
+        "title": "제13회 대한민국 서비스만족 大賞",
+        "org": "한국일보 (IT서비스)"
+      },
+      {
+        "date": "2019.12",
+        "title": "한중정상회담 경제사절단 참석",
+        "org": "북경"
+      },
+      {
+        "date": "2019.10",
+        "title": "한미정상회담 경제사절단 참석",
+        "org": "뉴욕"
+      },
+      {
+        "date": "2019.06",
+        "title": "글로벌 창업 활성화사업 선정",
+        "org": "창업진흥원"
+      },
+      {
+        "date": "2019.06",
+        "title": "북경 중관촌 Innoway THTI 엑셀러레이터 입주",
+        "org": "비 중국기업 최초"
+      },
+      {
+        "date": "2012.01",
+        "title": "주식회사 알오씨케이 설립",
+        "org": "대한민국"
+      }
+    ],
+    "mediaList": [
+      {
+        "date": "2025.09",
+        "media": "위키트리",
+        "title": "자이로센서 탑재 링마우스 혁신 제품 보도",
+        "url": "https://www.wikitree.co.kr/articles/1048964"
+      },
+      {
+        "date": "2025.08",
+        "media": "아이티비즈",
+        "title": "차세대 웨어러블 디바이스 인터페이스 조명",
+        "url": "https://www.itbiznews.com/news/articleView.html?idxno=177502"
+      },
+      {
+        "date": "2024.12",
+        "media": "머니투데이",
+        "title": "R.O.C.K 스마트 링 마우스 미래 기술력",
+        "url": "https://www.mt.co.kr/future/2024/12/03/2024120309173526851"
+      },
+      {
+        "date": "2021.01",
+        "media": "에이빙뉴스",
+        "title": "CES 2021 혁신적인 링마우스 기술 선보여",
+        "url": "https://url.kr/ashjfp"
+      },
+      {
+        "date": "2020.01",
+        "media": "Arirang TV",
+        "title": "CES 현장 글로벌 방송 인터뷰",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=170439"
+      },
+      {
+        "date": "2019.02",
+        "media": "MBC 라디오",
+        "title": "'손에 잡히는 경제' 혁신 스타트업 인터뷰",
+        "url": "https://apple.co/2WRov7S"
+      },
+      {
+        "date": "2019.01",
+        "media": "중앙일보",
+        "title": "차이나랩 글로벌 스타트업 심층 보도",
+        "url": "https://url.kr/jcgxbh"
+      },
+      {
+        "date": "2019.01",
+        "media": "Arirang TV",
+        "title": "글로벌 인터뷰 방송 방영",
+        "url": "https://www.arirang.com/Player/Clips.asp?vSeq=150250"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About R.O.C.K",
+    "title": "인간 중심의 스마트 인터페이스 혁신",
+    "body": "R.O.C.K은 사람이 기술에 맞추는 것이 아니라, 기술이 사람의 자연스러운 움직임에 맞춰야 한다고 믿습니다. 우리는 가장 작은 웨어러블로 가장 넓은 디지털 공간을 연결합니다.",
+    "values": [
+      {
+        "title": "Human-Centric",
+        "desc": "사람의 자연스러운 동작을 기준으로 설계합니다."
+      },
+      {
+        "title": "Precision",
+        "desc": "센서부터 알고리즘까지 정밀함을 타협하지 않습니다."
+      },
+      {
+        "title": "Global",
+        "desc": "전 세계 파트너와 함께 새로운 입력 표준을 만듭니다."
+      }
+    ],
+    "partnerTitle": "비즈니스 파트너십",
+    "partnerBody": "OEM/ODM, 글로벌 유통, 기업 대량구매 등 다양한 협력 모델을 제안합니다.",
+    "visitSite": "공식 사이트 방문",
+    "galleryTitle": "Everyday Design",
+    "galleryAlts": [
+      "흰 배경 위의 R.O.C.K 스마트 링 제품 사진",
+      "노트북 위에 놓인 R.O.C.K 스마트 링과 충전 단자",
+      "노트북 앞에서 스마트 링을 착용한 손"
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "글로벌 비즈니스 문의",
+    "subtitle": "바이어, 파트너, 고객 여러분의 문의를 기다립니다. 영업일 기준 2일 이내 회신드립니다.",
+    "name": "이름",
+    "company": "회사명",
+    "country": "국가",
+    "email": "이메일",
+    "type": "문의 유형",
+    "message": "문의 내용",
+    "placeholderName": "홍길동",
+    "placeholderCompany": "회사명을 입력하세요",
+    "placeholderCountry": "대한민국",
+    "placeholderEmail": "name@company.com",
+    "placeholderMessage": "문의하실 내용을 자유롭게 작성해 주세요.",
+    "selectType": "유형을 선택하세요",
+    "types": {
+      "oem": "OEM/ODM",
+      "distribution": "유통",
+      "bulk": "대량구매",
+      "brochure": "브로슈어 요청",
+      "other": "기타"
+    },
+    "submit": "문의 보내기",
+    "submitting": "전송 중...",
+    "success": "문의가 접수되었습니다. 빠르게 연락드리겠습니다.",
+    "error": "필수 항목을 올바르게 입력해 주세요.",
+    "privacy": "제출 시 문의 응대를 위한 개인정보 수집·이용에 동의하는 것으로 간주됩니다."
+  },
+  "footer": {
+    "tagline": "손끝에서 시작되는 차세대 인터페이스.",
+    "company": "주식회사 알오씨케이",
+    "bizNo": "사업자등록번호",
+    "address": "주소",
+    "addressValue": "서울특별시 중구 세종대로 22길 12 광화문G스퀘어 12층",
+    "email": "이메일",
+    "sitemap": "사이트맵",
+    "languages": "글로벌 사이트",
+    "rights": "All rights reserved."
+  }
+}
